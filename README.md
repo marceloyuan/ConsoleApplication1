@@ -9,7 +9,8 @@ of the data received, unless the door is open.
 
 This application is written in C++ under windows 8.1 using Visual Studio 2012 
 pro as code editor and compiler. To ensure that the application runs, please 
-open the .sln file with Visual Studio 2012 or 2013. Once the file is opened,
+create a C++ project in Visual Studio 2012 or 2013 and add .h files to Header
+Files and add .cpp files to Source Files. Once the file are all included,
 press F5. If the application does not run properly, please contact me.
 
 Thank you for your time.
