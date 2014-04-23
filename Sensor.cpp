@@ -1,4 +1,3 @@
-
 #include "Sensor.h"
 #include <math.h>
 #include <iostream>
@@ -6,7 +5,6 @@
 
 int sensor_data[10];			//Assume the data is always size 10
 int data_size = 10;
-float motor_position = 0;
 
 float average(int data[], int data_size)
 {
